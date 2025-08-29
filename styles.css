@@ -1,0 +1,39 @@
+/* General page style */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Box Model example */
+header, section, footer {
+  border: 2px solid #444;
+  padding: 15px;   /* inside spacing */
+  margin: 10px 0;  /* outside spacing */
+  border-radius: 8px;
+  background-color: white;
+}
+
+/* Headings */
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+h2 {
+  color: darkgreen;
+}
+
+/* List styling */
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  font-size: 14px;
+  color: gray;
+}
